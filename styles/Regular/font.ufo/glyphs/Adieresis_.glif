@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis" format="1">
+  <advance width="682"/>
+  <unicode hex="00C4"/>
+  <outline>
+    <contour>
+      <point x="277" y="622" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="340" y="562" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="647" y="0" type="line"/>
+      <point x="404" y="622" type="line"/>
+    </contour>
+    <contour>
+      <point x="137" y="182" type="line"/>
+      <point x="137" y="123" type="line"/>
+      <point x="545" y="123" type="line"/>
+      <point x="545" y="182" type="line"/>
+    </contour>
+    <contour>
+      <point x="151" y="752" type="line"/>
+      <point x="151" y="669" type="line"/>
+      <point x="274" y="669" type="line"/>
+      <point x="274" y="752" type="line"/>
+    </contour>
+    <contour>
+      <point x="411" y="752" type="line"/>
+      <point x="411" y="669" type="line"/>
+      <point x="534" y="669" type="line"/>
+      <point x="534" y="752" type="line"/>
+    </contour>
+  </outline>
+</glyph>

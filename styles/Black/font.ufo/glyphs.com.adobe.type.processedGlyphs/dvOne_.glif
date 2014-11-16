@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvOne">
+  <advance width="440" />
+  <unicode hex="0967" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="376" y="622" />
+      <point type="line" x="-15" y="622" />
+      <point type="line" x="-15" y="563" />
+      <point type="line" x="112" y="563" />
+      <point type="line" x="112" y="0" />
+      <point type="line" x="376" y="0" />
+    </contour>
+  </outline>
+</glyph>

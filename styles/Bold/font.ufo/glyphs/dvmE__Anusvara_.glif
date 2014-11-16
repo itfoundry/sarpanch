@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmE_Anusvara" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-102" y="622" type="move" name="_abvm.e"/>
+    </contour>
+    <contour>
+      <point x="-107" y="687" type="line"/>
+      <point x="17" y="687" type="line"/>
+      <point x="17" y="796" type="line"/>
+      <point x="-107" y="796" type="line"/>
+    </contour>
+    <contour>
+      <point x="-100" y="611" type="line"/>
+      <point x="-285" y="833" type="line"/>
+      <point x="-462" y="833" type="line"/>
+      <point x="-370" y="726" type="line" smooth="yes"/>
+      <point x="-314" y="661"/>
+      <point x="-273" y="628"/>
+      <point x="-246" y="611" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

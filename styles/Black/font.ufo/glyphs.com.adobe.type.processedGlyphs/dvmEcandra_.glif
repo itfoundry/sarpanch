@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvmEcandra">
+  <advance width="0" />
+  <unicode hex="0945" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="-117" y="852" />
+      <point type="line" x="-117" y="777" />
+      <point x="-117" y="753" />
+      <point x="-125" y="744" />
+      <point type="curve" x="-151" y="744" />
+      <point type="line" x="-224" y="744" />
+      <point x="-250" y="744" />
+      <point x="-258" y="753" />
+      <point type="curve" x="-258" y="777" />
+      <point type="line" x="-258" y="852" />
+      <point type="line" x="-512" y="852" />
+      <point type="line" x="-512" y="760" />
+      <point x="-512" y="707" />
+      <point x="-490" y="685" />
+      <point type="curve" x="-437" y="685" />
+      <point type="line" x="62" y="685" />
+      <point x="115" y="685" />
+      <point x="137" y="707" />
+      <point type="curve" x="137" y="760" />
+      <point type="line" x="137" y="852" />
+    </contour>
+  </outline>
+</glyph>

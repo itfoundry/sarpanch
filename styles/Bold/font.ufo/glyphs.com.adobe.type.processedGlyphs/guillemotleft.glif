@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="guillemotleft">
+  <advance width="643" />
+  <unicode hex="00AB" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="490" y="403" />
+      <point type="line" x="291" y="403" />
+      <point type="line" x="157" y="252" />
+      <point type="line" x="291" y="100" />
+      <point type="line" x="490" y="100" />
+      <point type="line" x="358" y="251" />
+    </contour>
+  </outline>
+</glyph>

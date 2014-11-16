@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSS_KA" format="1">
+  <advance width="1529"/>
+  <outline>
+    <contour>
+      <point x="1115" y="622" type="move" name="abvm.candra"/>
+    </contour>
+    <contour>
+      <point x="851" y="0" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="851" y="0" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="1115" y="622" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="1115" y="622" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="521" y="170" type="line"/>
+      <point x="482" y="170" type="line"/>
+      <point x="482" y="146"/>
+      <point x="474" y="137"/>
+      <point x="448" y="137" type="curve" smooth="yes"/>
+      <point x="413" y="137" type="line"/>
+      <point x="413" y="78" type="line"/>
+      <point x="452" y="78" type="line" smooth="yes"/>
+      <point x="505" y="78"/>
+      <point x="521" y="101"/>
+      <point x="521" y="149" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="488" y="215" type="line"/>
+      <point x="301" y="564" type="line"/>
+      <point x="301" y="586" type="line"/>
+      <point x="48" y="586" type="line"/>
+      <point x="48" y="153" type="line" smooth="yes"/>
+      <point x="48" y="100"/>
+      <point x="70" y="78"/>
+      <point x="123" y="78" type="curve" smooth="yes"/>
+      <point x="426" y="78" type="line"/>
+      <point x="426" y="137" type="line"/>
+      <point x="346" y="137" type="line" smooth="yes"/>
+      <point x="320" y="137"/>
+      <point x="312" y="146"/>
+      <point x="312" y="170" type="curve" smooth="yes"/>
+      <point x="312" y="309" type="line" smooth="yes"/>
+      <point x="312" y="382"/>
+      <point x="303" y="458"/>
+      <point x="303" y="458" type="curve"/>
+      <point x="483" y="130" type="line"/>
+    </contour>
+    <contour>
+      <point x="-20" y="563" type="line"/>
+      <point x="454" y="563" type="line"/>
+      <point x="454" y="622" type="line"/>
+      <point x="-20" y="622" type="line"/>
+    </contour>
+    <component base="dvKA" xOffset="437"/>
+  </outline>
+</glyph>

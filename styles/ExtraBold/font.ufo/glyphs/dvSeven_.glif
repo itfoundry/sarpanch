@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSeven" format="1">
+  <advance width="591"/>
+  <unicode hex="096D"/>
+  <outline>
+    <contour>
+      <point x="423" y="622" type="line"/>
+      <point x="40" y="622" type="line"/>
+      <point x="40" y="563" type="line"/>
+      <point x="423" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="549" y="622" type="line"/>
+      <point x="379" y="622" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="549" y="555" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvAU" format="1">
+  <advance width="1463"/>
+  <unicode hex="0914"/>
+  <outline>
+    <contour>
+      <point x="1493" y="622" type="move" name="abvm.bindu"/>
+    </contour>
+    <component base="dvmAA" xOffset="1093"/>
+    <component base="dvA" xOffset="52"/>
+    <component base="dvmAI" xOffset="1462"/>
+  </outline>
+</glyph>

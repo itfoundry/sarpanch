@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="yen">
+  <advance width="710" />
+  <unicode hex="00A5" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="661" y="622" />
+      <point type="line" x="572" y="622" />
+      <point type="line" x="360" y="274" />
+      <point type="line" x="139" y="622" />
+      <point type="line" x="49" y="622" />
+      <point type="line" x="236" y="328" />
+      <point type="line" x="108" y="328" />
+      <point type="line" x="108" y="269" />
+      <point type="line" x="274" y="269" />
+      <point type="line" x="317" y="201" />
+      <point type="line" x="317" y="200" />
+      <point type="line" x="108" y="200" />
+      <point type="line" x="108" y="141" />
+      <point type="line" x="317" y="141" />
+      <point type="line" x="317" y="0" />
+      <point type="line" x="404" y="0" />
+      <point type="line" x="404" y="141" />
+      <point type="line" x="611" y="141" />
+      <point type="line" x="611" y="200" />
+      <point type="line" x="404" y="200" />
+      <point type="line" x="404" y="201" />
+      <point type="line" x="445" y="269" />
+      <point type="line" x="611" y="269" />
+      <point type="line" x="611" y="328" />
+      <point type="line" x="481" y="328" />
+    </contour>
+  </outline>
+</glyph>

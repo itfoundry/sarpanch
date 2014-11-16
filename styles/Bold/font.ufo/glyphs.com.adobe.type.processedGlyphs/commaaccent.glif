@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="commaaccent">
+  <advance width="647" />
+  <unicode hex="F6C3" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="244" y="-251" />
+      <point type="line" x="294" y="-251" />
+      <point type="line" x="402" y="-110" />
+      <point type="line" x="402" y="-48" />
+      <point type="line" x="244" y="-48" />
+    </contour>
+  </outline>
+</glyph>

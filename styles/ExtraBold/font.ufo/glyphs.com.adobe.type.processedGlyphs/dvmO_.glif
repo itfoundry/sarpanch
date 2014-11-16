@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvmO">
+  <advance width="372" />
+  <unicode hex="094B" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="392" y="622" />
+      <point type="line" x="286" y="622" />
+      <point type="line" x="103" y="839" />
+      <point type="line" x="-112" y="839" />
+      <point type="line" x="-16" y="729" />
+      <point x="34" y="672" />
+      <point x="70" y="640" />
+      <point type="curve" x="97" y="622" />
+      <point type="line" x="-20" y="622" />
+      <point type="line" x="-20" y="563" />
+      <point type="line" x="86" y="563" />
+      <point type="line" x="86" y="0" />
+      <point type="line" x="286" y="0" />
+      <point type="line" x="286" y="563" />
+      <point type="line" x="392" y="563" />
+    </contour>
+  </outline>
+</glyph>

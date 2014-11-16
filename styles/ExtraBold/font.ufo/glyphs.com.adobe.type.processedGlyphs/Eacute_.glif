@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Eacute">
+  <advance width="616" />
+  <unicode hex="00C9" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="575" y="819" />
+      <point type="line" x="390" y="819" />
+      <point type="line" x="252" y="668" />
+      <point type="line" x="403" y="668" />
+    </contour>
+    <contour>
+      <point type="line" x="272" y="59" />
+      <point type="line" x="272" y="289" />
+      <point type="line" x="530" y="289" />
+      <point type="line" x="530" y="348" />
+      <point type="line" x="272" y="348" />
+      <point type="line" x="272" y="563" />
+      <point type="line" x="571" y="563" />
+      <point type="line" x="571" y="622" />
+      <point type="line" x="72" y="622" />
+      <point type="line" x="72" y="0" />
+      <point type="line" x="584" y="0" />
+      <point type="line" x="584" y="59" />
+    </contour>
+  </outline>
+</glyph>

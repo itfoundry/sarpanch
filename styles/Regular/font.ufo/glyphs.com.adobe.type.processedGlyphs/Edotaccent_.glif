@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Edotaccent">
+  <advance width="587" />
+  <unicode hex="0116" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="384" y="761" />
+      <point type="line" x="277" y="761" />
+      <point type="line" x="277" y="670" />
+      <point type="line" x="384" y="670" />
+    </contour>
+    <contour>
+      <point type="line" x="189" y="59" />
+      <point type="line" x="189" y="289" />
+      <point type="line" x="482" y="289" />
+      <point type="line" x="482" y="348" />
+      <point type="line" x="189" y="348" />
+      <point type="line" x="189" y="563" />
+      <point type="line" x="523" y="563" />
+      <point type="line" x="523" y="622" />
+      <point type="line" x="100" y="622" />
+      <point type="line" x="100" y="0" />
+      <point type="line" x="537" y="0" />
+      <point type="line" x="537" y="59" />
+    </contour>
+  </outline>
+</glyph>

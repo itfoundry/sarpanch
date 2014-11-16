@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bulletoperator" format="1">
+  <advance width="163"/>
+  <unicode hex="2219"/>
+  <outline>
+    <contour>
+      <point x="33" y="368" type="line"/>
+      <point x="33" y="253" type="line"/>
+      <point x="132" y="253" type="line"/>
+      <point x="132" y="368" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvOcandra" format="1">
+  <advance width="1403"/>
+  <unicode hex="0911"/>
+  <outline>
+    <contour>
+      <point x="1195" y="714" type="move" name="abvm.bindu"/>
+    </contour>
+    <component base="dvmEcandra" xOffset="1152"/>
+    <component base="dvmAA" xOffset="1034"/>
+    <component base="dvA"/>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvFour">
+  <advance width="725" />
+  <unicode hex="096A" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="691" y="163" />
+      <point type="line" x="610" y="163" />
+      <point type="line" x="610" y="326" />
+      <point type="line" x="425" y="326" />
+      <point type="line" x="425" y="163" />
+      <point type="line" x="232" y="163" />
+      <point type="line" x="461" y="622" />
+      <point type="line" x="263" y="622" />
+      <point type="line" x="42" y="184" />
+      <point type="line" x="42" y="104" />
+      <point type="line" x="425" y="104" />
+      <point type="line" x="425" y="0" />
+      <point type="line" x="610" y="0" />
+      <point type="line" x="610" y="104" />
+      <point type="line" x="691" y="104" />
+    </contour>
+  </outline>
+</glyph>

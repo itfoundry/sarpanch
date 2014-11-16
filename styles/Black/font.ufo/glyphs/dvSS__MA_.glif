@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSS_MA" format="1">
+  <advance width="1531"/>
+  <outline>
+    <contour>
+      <point x="522" y="170" type="line"/>
+      <point x="483" y="170" type="line"/>
+      <point x="483" y="146"/>
+      <point x="475" y="137"/>
+      <point x="449" y="137" type="curve" smooth="yes"/>
+      <point x="394" y="137" type="line"/>
+      <point x="394" y="78" type="line"/>
+      <point x="453" y="78" type="line" smooth="yes"/>
+      <point x="506" y="78"/>
+      <point x="522" y="101"/>
+      <point x="522" y="149" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="488" y="218" type="line"/>
+      <point x="301" y="564" type="line"/>
+      <point x="301" y="586" type="line"/>
+      <point x="48" y="586" type="line"/>
+      <point x="48" y="153" type="line" smooth="yes"/>
+      <point x="48" y="100"/>
+      <point x="70" y="78"/>
+      <point x="123" y="78" type="curve" smooth="yes"/>
+      <point x="430" y="78" type="line"/>
+      <point x="430" y="137" type="line"/>
+      <point x="346" y="137" type="line" smooth="yes"/>
+      <point x="320" y="137"/>
+      <point x="312" y="146"/>
+      <point x="312" y="170" type="curve" smooth="yes"/>
+      <point x="312" y="309" type="line" smooth="yes"/>
+      <point x="312" y="382"/>
+      <point x="303" y="458"/>
+      <point x="303" y="458" type="curve"/>
+      <point x="483" y="130" type="line"/>
+    </contour>
+    <contour>
+      <point x="-20" y="563" type="line"/>
+      <point x="454" y="563" type="line"/>
+      <point x="454" y="622" type="line"/>
+      <point x="-20" y="622" type="line"/>
+    </contour>
+    <component base="dvMA" xOffset="438"/>
+  </outline>
+</glyph>

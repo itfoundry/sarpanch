@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmAA" format="1">
+  <advance width="372"/>
+  <unicode hex="093E"/>
+  <outline>
+    <contour>
+      <point x="-20" y="563" type="line"/>
+      <point x="392" y="563" type="line"/>
+      <point x="392" y="622" type="line"/>
+      <point x="-20" y="622" type="line"/>
+    </contour>
+    <contour>
+      <point x="86" y="0" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="286" y="604" type="line"/>
+      <point x="86" y="604" type="line"/>
+    </contour>
+  </outline>
+</glyph>

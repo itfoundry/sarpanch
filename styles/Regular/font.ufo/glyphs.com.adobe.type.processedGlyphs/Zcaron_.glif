@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Zcaron">
+  <advance width="628" />
+  <unicode hex="017D" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="370" y="669" />
+      <point type="line" x="536" y="812" />
+      <point type="line" x="435" y="812" />
+      <point type="line" x="320" y="711" />
+      <point type="line" x="205" y="812" />
+      <point type="line" x="104" y="812" />
+      <point type="line" x="270" y="669" />
+    </contour>
+    <contour>
+      <point type="line" x="568" y="622" />
+      <point type="line" x="70" y="622" />
+      <point type="line" x="70" y="563" />
+      <point type="line" x="468" y="563" />
+      <point type="line" x="60" y="59" />
+      <point type="line" x="60" y="0" />
+      <point type="line" x="558" y="0" />
+      <point type="line" x="558" y="59" />
+      <point type="line" x="160" y="59" />
+      <point type="line" x="568" y="563" />
+    </contour>
+  </outline>
+</glyph>

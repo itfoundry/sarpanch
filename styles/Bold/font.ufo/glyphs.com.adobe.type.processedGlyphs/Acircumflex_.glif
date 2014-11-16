@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Acircumflex">
+  <advance width="719" />
+  <unicode hex="00C2" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="359" y="762" />
+      <point type="line" x="456" y="669" />
+      <point type="line" x="611" y="669" />
+      <point type="line" x="435" y="821" />
+      <point type="line" x="283" y="821" />
+      <point type="line" x="108" y="669" />
+      <point type="line" x="262" y="669" />
+    </contour>
+    <contour>
+      <point type="line" x="240" y="182" />
+      <point type="line" x="359" y="524" />
+      <point type="line" x="478" y="182" />
+    </contour>
+    <contour>
+      <point type="line" x="541" y="0" />
+      <point type="line" x="700" y="0" />
+      <point type="line" x="461" y="622" />
+      <point type="line" x="257" y="622" />
+      <point type="line" x="19" y="0" />
+      <point type="line" x="176" y="0" />
+      <point type="line" x="219" y="123" />
+      <point type="line" x="498" y="123" />
+    </contour>
+  </outline>
+</glyph>

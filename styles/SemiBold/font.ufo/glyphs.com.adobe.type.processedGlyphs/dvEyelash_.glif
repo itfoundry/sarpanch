@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvEyelash">
+  <advance width="644" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="606" y="400" />
+      <point x="606" y="375" />
+      <point x="600" y="368" />
+      <point type="curve" x="574" y="368" />
+      <point type="line" x="177" y="368" />
+      <point x="151" y="368" />
+      <point x="145" y="375" />
+      <point type="curve" x="145" y="400" />
+      <point type="line" x="145" y="443" />
+      <point type="line" x="10" y="443" />
+      <point type="line" x="10" y="387" />
+      <point x="10" y="334" />
+      <point x="35" y="309" />
+      <point type="curve" x="88" y="309" />
+      <point type="line" x="666" y="309" />
+      <point x="719" y="309" />
+      <point x="744" y="334" />
+      <point type="curve" x="744" y="387" />
+      <point type="line" x="744" y="443" />
+      <point type="line" x="606" y="443" />
+    </contour>
+    <contour>
+      <point type="line" x="-20" y="622" />
+      <point type="line" x="-20" y="563" />
+      <point type="line" x="744" y="563" />
+      <point type="line" x="744" y="622" />
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvII" format="1">
+  <advance width="758"/>
+  <unicode hex="0908"/>
+  <outline>
+    <contour>
+      <point x="726" y="576" type="move" name="abvm.bindu"/>
+    </contour>
+    <component base="dvI" xOffset="2"/>
+    <component base="dvReph" xOffset="735"/>
+  </outline>
+</glyph>

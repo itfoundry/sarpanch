@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="quotedblleft">
+  <advance width="490" />
+  <unicode hex="201C" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="221" y="622" />
+      <point type="line" x="166" y="622" />
+      <point type="line" x="53" y="420" />
+      <point type="line" x="53" y="353" />
+      <point type="line" x="221" y="353" />
+    </contour>
+    <contour>
+      <point type="line" x="441" y="622" />
+      <point type="line" x="386" y="622" />
+      <point type="line" x="273" y="420" />
+      <point type="line" x="273" y="353" />
+      <point type="line" x="441" y="353" />
+    </contour>
+  </outline>
+</glyph>

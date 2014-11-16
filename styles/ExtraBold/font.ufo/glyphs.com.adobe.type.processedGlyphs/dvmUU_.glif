@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvmUU">
+  <advance width="0" />
+  <unicode hex="0942" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="59" y="-64" />
+      <point x="24" y="-6" />
+      <point x="3" y="0" />
+      <point type="curve" x="-67" y="0" />
+      <point type="line" x="-381" y="0" />
+      <point x="-434" y="0" />
+      <point x="-456" y="-22" />
+      <point type="curve" x="-456" y="-75" />
+      <point type="line" x="-456" y="-195" />
+      <point x="-456" y="-248" />
+      <point x="-434" y="-270" />
+      <point type="curve" x="-381" y="-270" />
+      <point type="line" x="-139" y="-270" />
+      <point type="line" x="-139" y="-211" />
+      <point type="line" x="-232" y="-211" />
+      <point x="-258" y="-211" />
+      <point x="-266" y="-202" />
+      <point type="curve" x="-266" y="-178" />
+      <point type="line" x="-266" y="-92" />
+      <point x="-266" y="-68" />
+      <point x="-258" y="-59" />
+      <point type="curve" x="-232" y="-59" />
+      <point type="line" x="-154" y="-59" />
+      <point x="-131" y="-59" />
+      <point x="-124" y="-67" />
+      <point type="curve" x="-112" y="-87" />
+      <point type="line" x="-6" y="-270" />
+      <point type="line" x="181" y="-270" />
+    </contour>
+  </outline>
+</glyph>

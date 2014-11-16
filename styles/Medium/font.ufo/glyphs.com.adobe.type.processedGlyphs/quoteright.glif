@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="quoteright">
+  <advance width="229" />
+  <unicode hex="2019" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="59" y="364" />
+      <point type="line" x="99" y="364" />
+      <point type="line" x="179" y="560" />
+      <point type="line" x="179" y="622" />
+      <point type="line" x="59" y="622" />
+    </contour>
+  </outline>
+</glyph>

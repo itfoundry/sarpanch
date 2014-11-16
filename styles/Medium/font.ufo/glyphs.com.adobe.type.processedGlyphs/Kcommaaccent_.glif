@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Kcommaaccent">
+  <advance width="678" />
+  <unicode hex="0136" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="94" y="622" />
+      <point type="line" x="94" y="0" />
+      <point type="line" x="201" y="0" />
+      <point type="line" x="201" y="622" />
+    </contour>
+    <contour>
+      <point type="line" x="516" y="622" />
+      <point type="line" x="225" y="318" />
+      <point type="line" x="525" y="0" />
+      <point type="line" x="657" y="0" />
+      <point type="line" x="352" y="318" />
+      <point type="line" x="645" y="622" />
+    </contour>
+    <contour>
+      <point type="line" x="296" y="-229" />
+      <point type="line" x="333" y="-229" />
+      <point type="line" x="410" y="-99" />
+      <point type="line" x="410" y="-49" />
+      <point type="line" x="296" y="-49" />
+    </contour>
+  </outline>
+</glyph>

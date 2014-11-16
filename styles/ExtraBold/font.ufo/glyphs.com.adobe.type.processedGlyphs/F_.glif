@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="F">
+  <advance width="601" />
+  <unicode hex="0046" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="574" y="563" />
+      <point type="line" x="574" y="622" />
+      <point type="line" x="75" y="622" />
+      <point type="line" x="75" y="0" />
+      <point type="line" x="275" y="0" />
+      <point type="line" x="275" y="265" />
+      <point type="line" x="535" y="265" />
+      <point type="line" x="535" y="324" />
+      <point type="line" x="275" y="324" />
+      <point type="line" x="275" y="563" />
+    </contour>
+  </outline>
+</glyph>

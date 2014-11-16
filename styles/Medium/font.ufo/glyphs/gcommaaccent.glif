@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gcommaaccent" format="1">
+  <advance width="625"/>
+  <unicode hex="0123"/>
+  <outline>
+    <contour>
+      <point x="363" y="710" type="line"/>
+      <point x="285" y="581" type="line"/>
+      <point x="285" y="531" type="line"/>
+      <point x="400" y="531" type="line"/>
+      <point x="400" y="710" type="line"/>
+    </contour>
+    <component base="g"/>
+  </outline>
+</glyph>

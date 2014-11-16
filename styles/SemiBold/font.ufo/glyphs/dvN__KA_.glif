@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvN_KA" format="1">
+  <advance width="1787"/>
+  <outline>
+    <contour>
+      <point x="1313" y="622" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="1176" y="0" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="1313" y="622" type="move" name="abvm.candra"/>
+    </contour>
+    <contour>
+      <point x="1313" y="622" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="1176" y="0" type="move" name="blwm.u"/>
+    </contour>
+    <component base="dvKA" xOffset="702"/>
+    <component base="dvN"/>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="softhyphen" format="1">
+  <advance width="357"/>
+  <unicode hex="00AD"/>
+  <outline>
+    <contour>
+      <point x="55" y="256" type="line"/>
+      <point x="301" y="256" type="line"/>
+      <point x="301" y="314" type="line"/>
+      <point x="55" y="314" type="line"/>
+    </contour>
+  </outline>
+</glyph>

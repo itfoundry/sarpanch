@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Tcedilla">
+  <advance width="571" />
+  <unicode hex="0162" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="226" y="-229" />
+      <point type="line" x="263" y="-229" />
+      <point type="line" x="340" y="-99" />
+      <point type="line" x="340" y="-49" />
+      <point type="line" x="226" y="-49" />
+    </contour>
+    <contour>
+      <point type="line" x="561" y="622" />
+      <point type="line" x="9" y="622" />
+      <point type="line" x="9" y="563" />
+      <point type="line" x="230" y="563" />
+      <point type="line" x="230" y="0" />
+      <point type="line" x="340" y="0" />
+      <point type="line" x="340" y="563" />
+      <point type="line" x="561" y="563" />
+    </contour>
+  </outline>
+</glyph>
