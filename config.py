@@ -1,13 +1,14 @@
 #!/usr/bin/python
 
-FAMILY_NAME = 'SomeDevanagari'
+FAMILY_NAME = 'Sarpanch'
 
 STYLE_NAMES = [
-    'Light',
     'Regular',
     'Medium',
     'SemiBold',
     'Bold',
+    'ExtraBold',
+    'Black',
 ]
 
 UFOIG_ARGS = [
@@ -21,11 +22,12 @@ UFOIG_ARGS = [
 ]
 
 MATCH_mI_OFFSETS_DICT = {
-    'Light':    0,
-    'Regular':  0,
-    'Medium':   0,
-    'SemiBold': 0,
-    'Bold':     0,
+    'Regular':   0,
+    'Medium':    0,
+    'SemiBold':  0,
+    'Bold':      0,
+    'ExtraBold': 0,
+    'Black':     0,
 }
 
 MAKEOTF_ARGS = [

@@ -10,34 +10,40 @@
 #   l=  Compatible Family Menu Name
 #   m=1,Macintosh Compatible Full Name
 
-[SomeDevanagari-Light]
-  f=  Some Devanagari
-  s=  Light
-  l=  Some Devanagari Light
-  m=1,Some Devanagari Light
-
-[SomeDevanagari-Regular]
-  f=  Some Devanagari
+[Sarpanch-Regular]
+  f=  Sarpanch
   s=  Regular
-  l=  Some Devanagari
-  m=1,Some Devanagari
+  l=  Sarpanch
+  m=1,Sarpanch
 
-[SomeDevanagari-Medium]
-  f=  Some Devanagari
+[Sarpanch-Medium]
+  f=  Sarpanch
   s=  Medium
-  l=  Some Devanagari Medium
-  m=1,Some Devanagari Medium
+  l=  Sarpanch Medium
+  m=1,Sarpanch Medium
 
-[SomeDevanagari-SemiBold]
-  f=  Some Devanagari
+[Sarpanch-SemiBold]
+  f=  Sarpanch
   s=  SemiBold
-  l=  Some Devanagari SemiBold
-  m=1,Some Devanagari SemiBold
+  l=  Sarpanch SemiBold
+  m=1,Sarpanch SemiBold
 
-[SomeDevanagari-Bold]
-  f=  Some Devanagari
+[Sarpanch-Bold]
+  f=  Sarpanch
   s=  Bold
-  l=  Some Devanagari
-  m=1,Some Devanagari Bold
+  l=  Sarpanch
+  m=1,Sarpanch Bold
 # Style-linked because of `l` (the same as Regular's)
 #   and `styles/Bold/fontinfo` (`IsBoldStyle true`).
+
+[Sarpanch-ExtraBold]
+  f=  Sarpanch
+  s=  ExtraBold
+  l=  Sarpanch ExtraBold
+  m=1,Sarpanch ExtraBold
+
+[Sarpanch-Black]
+  f=  Sarpanch
+  s=  Black
+  l=  Sarpanch Black
+  m=1,Sarpanch Black
