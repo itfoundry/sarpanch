@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Sarpanch-Medium.GlyphOrder.ttx"/>
+  <head src="Sarpanch-Medium._h_e_a_d.ttx"/>
+  <hhea src="Sarpanch-Medium._h_h_e_a.ttx"/>
+  <maxp src="Sarpanch-Medium._m_a_x_p.ttx"/>
+  <OS_2 src="Sarpanch-Medium.O_S_2f_2.ttx"/>
+  <name src="Sarpanch-Medium._n_a_m_e.ttx"/>
+  <cmap src="Sarpanch-Medium._c_m_a_p.ttx"/>
+  <post src="Sarpanch-Medium._p_o_s_t.ttx"/>
+  <CFF src="Sarpanch-Medium.C_F_F_.ttx"/>
+  <GDEF src="Sarpanch-Medium.G_D_E_F_.ttx"/>
+  <GPOS src="Sarpanch-Medium.G_P_O_S_.ttx"/>
+  <GSUB src="Sarpanch-Medium.G_S_U_B_.ttx"/>
+  <hmtx src="Sarpanch-Medium._h_m_t_x.ttx"/>
+</ttFont>
