@@ -13,16 +13,16 @@
       <point x="461" y="622" type="line"/>
     </contour>
     <contour>
-      <point x="146" y="182" type="line"/>
-      <point x="146" y="123" type="line"/>
-      <point x="574" y="123" type="line"/>
-      <point x="574" y="182" type="line"/>
-    </contour>
-    <contour>
       <point x="130" y="778" type="line"/>
       <point x="130" y="669" type="line"/>
       <point x="305" y="669" type="line"/>
       <point x="305" y="778" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="182" type="line"/>
+      <point x="146" y="123" type="line"/>
+      <point x="574" y="123" type="line"/>
+      <point x="574" y="182" type="line"/>
     </contour>
     <contour>
       <point x="416" y="778" type="line"/>

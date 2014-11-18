@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="onehalf">
+  <advance width="866" />
+  <unicode hex="00BD" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="123" y="280" />
+      <point type="line" x="198" y="280" />
+      <point type="line" x="198" y="622" />
+      <point type="line" x="42" y="622" />
+      <point type="line" x="42" y="580" />
+      <point type="line" x="123" y="580" />
+    </contour>
+    <contour>
+      <point type="line" x="523" y="699" />
+      <point type="line" x="110" y="-136" />
+      <point type="line" x="212" y="-136" />
+      <point type="line" x="626" y="699" />
+    </contour>
+    <contour>
+      <point type="line" x="832" y="299" />
+      <point x="832" y="328" />
+      <point x="818" y="342" />
+      <point type="curve" x="789" y="342" />
+      <point type="line" x="602" y="342" />
+      <point x="573" y="342" />
+      <point x="559" y="328" />
+      <point type="curve" x="559" y="299" />
+      <point type="line" x="559" y="230" />
+      <point type="line" x="628" y="230" />
+      <point type="line" x="628" y="283" />
+      <point x="628" y="297" />
+      <point x="631" y="300" />
+      <point type="curve" x="645" y="300" />
+      <point type="line" x="744" y="300" />
+      <point x="759" y="300" />
+      <point x="761" y="297" />
+      <point type="curve" x="761" y="283" />
+      <point type="line" x="761" y="261" />
+      <point x="761" y="227" />
+      <point x="750" y="205" />
+      <point type="curve" x="729" y="187" />
+      <point type="line" x="561" y="44" />
+      <point type="line" x="561" y="0" />
+      <point type="line" x="829" y="0" />
+      <point type="line" x="829" y="45" />
+      <point type="line" x="649" y="45" />
+      <point type="line" x="790" y="159" />
+      <point x="818" y="182" />
+      <point x="832" y="212" />
+      <point type="curve" x="832" y="259" />
+    </contour>
+  </outline>
+</glyph>

@@ -1,4 +1,4 @@
-# Created: Mon Nov 17 00:52:39 2014
+# Created: Tue Nov 18 19:06:11 2014
 # PS Name: Sarpanch-Black
 # MM Inst: None
 # exported from noApp
@@ -7,15 +7,19 @@
 
 lookup MARK_BASE_blwm.u {
 	@bGC_dvD_GHA_blwm.u = [dvD_GHA dvD_DHA];
+	@bGC_dvG_RA_blwm.u = [dvG_RA dvGx_RA];
+	@bGC_dvJ_RA_blwm.u = [dvJ_RA dvNY_RA dvJx_RA];
 	@bGC_dvKA_blwm.u = [dvKA dvKxA];
+	@bGC_dvKH_RA_blwm.u = [dvKH_RA dvKHx_RA];
+	@bGC_dvK_RA_blwm.u = [dvK_RA dvKx_RA];
 	@bGC_dvK_TTA_blwm.u = [dvK_TTA dvS_TTA];
 	@bGC_dvL_D_RA_blwm.u = [dvL_D_RA dvL_DA];
 	@bGC_dvL_TTHA_blwm.u = [dvL_TTHA dvL_DDHA];
 	@bGC_dvNGA_blwm.u = [dvNGA dvDDA dvRA dvDDxA];
 	@bGC_dvNN_DDHA_blwm.u = [dvNN_DDHA dvN_TTA];
 	@bGC_dvN_D_RA_blwm.u = [dvN_D_RA dvG_DA dvN_DA];
-	@bGC_dvPHA_blwm.u = [dvPHA dvPHxA dvK_RA dvKx_RA];
-	@bGC_dvPH_RA_blwm.u = [dvPH_RA dvPHx_RA];
+	@bGC_dvPHA_blwm.u = [dvPHA dvPHxA];
+	@bGC_dvP_RA_blwm.u = [dvP_RA dvPH_RA dvPHx_RA];
 	@bGC_dvSH_KA_blwm.u = [dvSH_KA dvSH_KxA];
 	@bGC_dvS_K_RA_blwm.u = [dvS_K_RA dvS_KA];
 	@bGC_dvS_PHA_blwm.u = [dvS_PHA dvKx_PHA dvKx_KxA dvKx_PHxA];
@@ -23,7 +27,11 @@ lookup MARK_BASE_blwm.u {
 	@bGC_dvTTH_RA_blwm.u = [dvTTH_RA dvDDH_RA];
 	@bGC_dvTTH_TTHA_blwm.u = [dvTTH_TTHA dvDDH_DDHA];
 	pos base @bGC_dvD_GHA_blwm.u <anchor 670 0> mark @MC_blwm.u;
+	pos base @bGC_dvG_RA_blwm.u <anchor 757 -179> mark @MC_blwm.u;
+	pos base @bGC_dvJ_RA_blwm.u <anchor 772 -179> mark @MC_blwm.u;
 	pos base @bGC_dvKA_blwm.u <anchor 414 0> mark @MC_blwm.u;
+	pos base @bGC_dvKH_RA_blwm.u <anchor 1024 -59> mark @MC_blwm.u;
+	pos base @bGC_dvK_RA_blwm.u <anchor 417 -59> mark @MC_blwm.u;
 	pos base @bGC_dvK_TTA_blwm.u <anchor 975 -55> mark @MC_blwm.u;
 	pos base @bGC_dvL_D_RA_blwm.u <anchor 1140 0> mark @MC_blwm.u;
 	pos base @bGC_dvL_TTHA_blwm.u <anchor 977 -55> mark @MC_blwm.u;
@@ -31,23 +39,27 @@ lookup MARK_BASE_blwm.u {
 	pos base @bGC_dvNN_DDHA_blwm.u <anchor 945 -55> mark @MC_blwm.u;
 	pos base @bGC_dvN_D_RA_blwm.u <anchor 1117 0> mark @MC_blwm.u;
 	pos base @bGC_dvPHA_blwm.u <anchor 417 0> mark @MC_blwm.u;
-	pos base @bGC_dvPH_RA_blwm.u <anchor 424 0> mark @MC_blwm.u;
+	pos base @bGC_dvP_RA_blwm.u <anchor 424 -59> mark @MC_blwm.u;
 	pos base @bGC_dvSH_KA_blwm.u <anchor 1121 0> mark @MC_blwm.u;
 	pos base @bGC_dvS_K_RA_blwm.u <anchor 1144 0> mark @MC_blwm.u;
 	pos base @bGC_dvS_PHA_blwm.u <anchor 1157 0> mark @MC_blwm.u;
 	pos base @bGC_dvTTHA_blwm.u <anchor 244 -55> mark @MC_blwm.u;
 	pos base @bGC_dvTTH_RA_blwm.u <anchor 244 -183> mark @MC_blwm.u;
 	pos base @bGC_dvTTH_TTHA_blwm.u <anchor 272 -325> mark @MC_blwm.u;
+	pos base dvBH_RA <anchor 781 -179> mark @MC_blwm.u;
 	pos base dvB_DA <anchor 853 0> mark @MC_blwm.u;
+	pos base dvB_RA <anchor 493 -59> mark @MC_blwm.u;
 	pos base dvCHA <anchor 389 -55> mark @MC_blwm.u;
 	pos base dvCH_RA <anchor 389 -183> mark @MC_blwm.u;
 	pos base dvC_CHA <anchor 885 -55> mark @MC_blwm.u;
 	pos base dvC_CH_VA <anchor 1094 -270> mark @MC_blwm.u;
+	pos base dvC_RA <anchor 528 -59> mark @MC_blwm.u;
 	pos base dvDA <anchor 404 0> mark @MC_blwm.u;
 	pos base dvDD_DDA <anchor 243 -325> mark @MC_blwm.u;
 	pos base dvDD_DDHA <anchor 240 -325> mark @MC_blwm.u;
 	pos base dvDD_RA <anchor 216 -182> mark @MC_blwm.u;
 	pos base dvDD_VA <anchor 446 -270> mark @MC_blwm.u;
+	pos base dvDH_RA <anchor 655 -59> mark @MC_blwm.u;
 	pos base dvD_BA <anchor 466 -270> mark @MC_blwm.u;
 	pos base dvD_BHA <anchor 658 0> mark @MC_blwm.u;
 	pos base dvD_B_RA <anchor 466 -180> mark @MC_blwm.u;
@@ -56,8 +68,9 @@ lookup MARK_BASE_blwm.u {
 	pos base dvD_G_RA <anchor 434 -270> mark @MC_blwm.u;
 	pos base dvD_MA <anchor 796 0> mark @MC_blwm.u;
 	pos base dvD_NA <anchor 439 -140> mark @MC_blwm.u;
-	pos base dvD_RA <anchor 407 0> mark @MC_blwm.u;
+	pos base dvD_RA <anchor 407 -59> mark @MC_blwm.u;
 	pos base dvD_VA <anchor 466 -179> mark @MC_blwm.u;
+	pos base dvGH_RA <anchor 549 -59> mark @MC_blwm.u;
 	pos base dvHA <anchor 254 -55> mark @MC_blwm.u;
 	pos base dvHA_mvR <anchor 256 -106> mark @MC_blwm.u;
 	pos base dvH_LA <anchor 319 -124> mark @MC_blwm.u;
@@ -65,6 +78,7 @@ lookup MARK_BASE_blwm.u {
 	pos base dvH_NNA <anchor 299 -55> mark @MC_blwm.u;
 	pos base dvH_RA <anchor 304 -55> mark @MC_blwm.u;
 	pos base dvH_VA <anchor 293 -124> mark @MC_blwm.u;
+	pos base dvJH_RA <anchor 878 -179> mark @MC_blwm.u;
 	pos base dvJ_DA <anchor 1135 0> mark @MC_blwm.u;
 	pos base dvJ_DDA <anchor 960 -55> mark @MC_blwm.u;
 	pos base dvJ_KA <anchor 1147 0> mark @MC_blwm.u;
@@ -79,12 +93,15 @@ lookup MARK_BASE_blwm.u {
 	pos base dvL_DDA <anchor 963 -55> mark @MC_blwm.u;
 	pos base dvL_HA <anchor 987 -55> mark @MC_blwm.u;
 	pos base dvL_KA <anchor 1150 0> mark @MC_blwm.u;
+	pos base dvL_RA <anchor 812 -179> mark @MC_blwm.u;
 	pos base dvL_TTA <anchor 968 -55> mark @MC_blwm.u;
 	pos base dvL_V_DDA <anchor 1342 -55> mark @MC_blwm.u;
 	pos base dvM_DA <anchor 1128 0> mark @MC_blwm.u;
 	pos base dvM_HA <anchor 978 -55> mark @MC_blwm.u;
+	pos base dvM_RA <anchor 801 -179> mark @MC_blwm.u;
 	pos base dvNG_RA <anchor 213 -183> mark @MC_blwm.u;
 	pos base dvNN_DDA <anchor 933 -55> mark @MC_blwm.u;
+	pos base dvNN_RA <anchor 792 -179> mark @MC_blwm.u;
 	pos base dvNN_TTA <anchor 943 -55> mark @MC_blwm.u;
 	pos base dvNN_TTHA <anchor 955 -55> mark @MC_blwm.u;
 	pos base dvNY_CHA <anchor 1088 -55> mark @MC_blwm.u;
@@ -94,6 +111,7 @@ lookup MARK_BASE_blwm.u {
 	pos base dvN_HA <anchor 967 -55> mark @MC_blwm.u;
 	pos base dvN_KA <anchor 1127 0> mark @MC_blwm.u;
 	pos base dvN_PH_RA <anchor 1126 0> mark @MC_blwm.u;
+	pos base dvN_RA <anchor 768 -179> mark @MC_blwm.u;
 	pos base dvN_S_TTA <anchor 1675 -55> mark @MC_blwm.u;
 	pos base dvPH_PHA <anchor 1160 0> mark @MC_blwm.u;
 	pos base dvPH_TTA <anchor 971 -55> mark @MC_blwm.u;
@@ -101,16 +119,20 @@ lookup MARK_BASE_blwm.u {
 	pos base dvP_TTHA <anchor 257 -55> mark @MC_blwm.u;
 	pos base dvRxA <anchor 347 -183> mark @MC_blwm.u;
 	pos base dvSH_CHA <anchor 1099 -55> mark @MC_blwm.u;
+	pos base dvSH_RA <anchor 838 -59> mark @MC_blwm.u;
 	pos base dvSH_TTA <anchor 959 -55> mark @MC_blwm.u;
 	pos base dvSS_KA <anchor 851 0> mark @MC_blwm.u;
 	pos base dvSS_K_RA <anchor 844 0> mark @MC_blwm.u;
 	pos base dvSS_PHA <anchor 852 0> mark @MC_blwm.u;
+	pos base dvSS_RA <anchor 482 -59> mark @MC_blwm.u;
 	pos base dvSS_TTA <anchor 275 -55> mark @MC_blwm.u;
 	pos base dvSS_TTHA <anchor 282 -55> mark @MC_blwm.u;
 	pos base dvSS_TTH_RA <anchor 274 -200> mark @MC_blwm.u;
 	pos base dvSS_TT_RA <anchor 273 -200> mark @MC_blwm.u;
 	pos base dvSS_TT_VA <anchor 486 -299> mark @MC_blwm.u;
 	pos base dvS_DA <anchor 1134 0> mark @MC_blwm.u;
+	pos base dvS_RA <anchor 868 -59> mark @MC_blwm.u;
+	pos base dvTH_RA <anchor 735 -59> mark @MC_blwm.u;
 	pos base dvTTA <anchor 235 -55> mark @MC_blwm.u;
 	pos base dvTT_RA <anchor 234 -183> mark @MC_blwm.u;
 	pos base dvTT_TTA <anchor 263 -325> mark @MC_blwm.u;
@@ -119,7 +141,10 @@ lookup MARK_BASE_blwm.u {
 	pos base dvT_KA <anchor 843 0> mark @MC_blwm.u;
 	pos base dvT_K_RA <anchor 808 0> mark @MC_blwm.u;
 	pos base dvT_PHA <anchor 827 0> mark @MC_blwm.u;
+	pos base dvT_RA <anchor 492 -59> mark @MC_blwm.u;
 	pos base dvV_HA <anchor 630 -55> mark @MC_blwm.u;
+	pos base dvV_RA <anchor 427 -59> mark @MC_blwm.u;
+	pos base dvY_RA <anchor 650 -59> mark @MC_blwm.u;
 } MARK_BASE_blwm.u;
 
 

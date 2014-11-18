@@ -15,7 +15,7 @@
       <point x="681" y="622" type="move" name="abvm.e"/>
     </contour>
     <contour>
-      <point x="417" y="0" type="move" name="blwm.u"/>
+      <point x="417" y="-59" type="move" name="blwm.u"/>
     </contour>
     <contour>
       <point x="733" y="426" type="line"/>

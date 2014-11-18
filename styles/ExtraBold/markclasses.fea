@@ -1,4 +1,4 @@
-# Created: Mon Nov 17 00:52:22 2014
+# Created: Tue Nov 18 19:05:53 2014
 # PS Name: Sarpanch-ExtraBold
 # MM Inst: None
 # exported from noApp
@@ -6,14 +6,16 @@
 @mGC_abvm.candra_n55_622 = [dvmEcandra dvCandrabindu];
 @mGC_abvm.e_n86_622 = [dvmE dvmAI dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
 @mGC_abvm.i_0_671 = [dvAnusvara.amI dvReph.amI dvReph_Anusvara.amI];
-@mGC_blwm.u_n319_0 = [dvmUU dvmvR dvmvRR];
+@mGC_blwm.u_n270_0 = [dvmvL dvmvLL];
+@mGC_blwm.u_n286_0 = [dvmU dvmUU dvmvR];
 @mGC_blwm.virama_n286_0 = [dvVirama dvRashtrasign];
 
 markClass @mGC_abvm.candra_n55_622 <anchor -55 622> @MC_abvm.candra;
 markClass @mGC_abvm.e_n86_622 <anchor -86 622> @MC_abvm.e;
 markClass @mGC_abvm.i_0_671 <anchor 0 671> @MC_abvm.i;
-markClass @mGC_blwm.u_n319_0 <anchor -319 0> @MC_blwm.u;
+markClass @mGC_blwm.u_n270_0 <anchor -270 0> @MC_blwm.u;
+markClass @mGC_blwm.u_n286_0 <anchor -286 0> @MC_blwm.u;
 markClass @mGC_blwm.virama_n286_0 <anchor -286 0> @MC_blwm.virama;
 markClass dvAnusvara <anchor -86 622> @MC_abvm.bindu;
-markClass dvmU <anchor -297 0> @MC_blwm.u;
+markClass dvmvRR <anchor -319 0> @MC_blwm.u;
 

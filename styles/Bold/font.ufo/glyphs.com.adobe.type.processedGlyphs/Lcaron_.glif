@@ -4,13 +4,11 @@
   <unicode hex="013D" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="237" y="670" />
-      <point type="line" x="413" y="821" />
-      <point type="line" x="258" y="821" />
-      <point type="line" x="161" y="728" />
-      <point type="line" x="64" y="821" />
-      <point type="line" x="-90" y="821" />
-      <point type="line" x="85" y="670" />
+      <point name="hintSet0000" type="line" x="446" y="565" />
+      <point type="line" x="446" y="622" />
+      <point type="line" x="320" y="622" />
+      <point type="line" x="320" y="437" />
+      <point type="line" x="363" y="437" />
     </contour>
     <contour>
       <point type="line" x="242" y="59" />

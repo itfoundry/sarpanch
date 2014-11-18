@@ -32,6 +32,7 @@
   dvP_RA
   dvPH_RA
   dvV_RA
+  dvSS_RA
   dvH_RA
   dvKx_RA
   dvPHx_RA
@@ -40,6 +41,7 @@
   dvTT_TTHA
   dvTT_VA
   dvTTH_TTHA
+  dvTTH_VA
   dvDD_DDA
   dvDD_DDHA
   dvDD_VA
@@ -63,6 +65,7 @@
   dvSSA
   dvD_RA
   dvB_RA
+  dvDDH_VA
   dvT_TA
   dvP_TTHA
   dvP_TA
@@ -109,6 +112,7 @@
   dvDH_RA
   dvN_RA
   dvSH_RA
+  dvLL_RA
   dvGx_RA
   dvJx_RA
   dvEyelash_HA
@@ -140,6 +144,7 @@
   dvSHA
   dvGxA
   dvG_RA
+  dvL_RA
   dvT_K_RA
   dvH_MA
   dvH_YA

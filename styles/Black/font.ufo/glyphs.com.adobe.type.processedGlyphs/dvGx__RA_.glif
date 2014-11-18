@@ -3,13 +3,7 @@
   <advance width="1047" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="557" y="-324" />
-      <point type="line" x="812" y="-324" />
-      <point type="line" x="812" y="-174" />
-      <point type="line" x="557" y="-174" />
-    </contour>
-    <contour>
-      <point type="line" x="295" y="198" />
+      <point name="hintSet0000" type="line" x="295" y="198" />
       <point x="269" y="198" />
       <point x="261" y="207" />
       <point type="curve" x="261" y="231" />
@@ -54,6 +48,12 @@
       <point type="line" x="992" y="-120" />
       <point type="line" x="992" y="563" />
       <point type="line" x="1067" y="563" />
+    </contour>
+    <contour>
+      <point type="line" x="301" y="78" />
+      <point type="line" x="46" y="78" />
+      <point type="line" x="46" y="-72" />
+      <point type="line" x="301" y="-72" />
     </contour>
   </outline>
 </glyph>

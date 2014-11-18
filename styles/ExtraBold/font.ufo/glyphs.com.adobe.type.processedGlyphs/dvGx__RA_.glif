@@ -3,10 +3,10 @@
   <advance width="1047" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="603" y="-292" />
-      <point type="line" x="798" y="-292" />
-      <point type="line" x="798" y="-163" />
-      <point type="line" x="603" y="-163" />
+      <point name="hintSet0000" type="line" x="144" y="-79" />
+      <point type="line" x="339" y="-79" />
+      <point type="line" x="339" y="50" />
+      <point type="line" x="144" y="50" />
     </contour>
     <contour>
       <point type="line" x="263" y="176" />

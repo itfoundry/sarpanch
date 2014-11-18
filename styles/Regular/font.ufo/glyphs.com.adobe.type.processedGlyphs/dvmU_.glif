@@ -4,34 +4,34 @@
   <unicode hex="0941" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="-259" y="0" />
-      <point type="line" x="-259" y="-59" />
-      <point type="line" x="-132" y="-59" />
-      <point x="-106" y="-59" />
-      <point x="-98" y="-68" />
-      <point type="curve" x="-98" y="-92" />
-      <point type="line" x="-98" y="-178" />
-      <point x="-98" y="-202" />
-      <point x="-106" y="-211" />
-      <point type="curve" x="-132" y="-211" />
-      <point type="line" x="-347" y="-211" />
-      <point x="-370" y="-211" />
-      <point x="-377" y="-203" />
-      <point type="curve" x="-389" y="-183" />
-      <point type="line" x="-443" y="-90" />
-      <point type="line" x="-545" y="-90" />
-      <point type="line" x="-475" y="-206" />
-      <point x="-439" y="-264" />
-      <point x="-419" y="-270" />
-      <point type="curve" x="-349" y="-270" />
-      <point type="line" x="-84" y="-270" />
-      <point x="-31" y="-270" />
-      <point x="-9" y="-248" />
-      <point type="curve" x="-9" y="-195" />
-      <point type="line" x="-9" y="-75" />
-      <point x="-9" y="-22" />
-      <point x="-31" y="0" />
-      <point type="curve" x="-84" y="0" />
+      <point name="hintSet0000" type="line" x="-229" y="0" />
+      <point type="line" x="-229" y="-59" />
+      <point type="line" x="-102" y="-59" />
+      <point x="-76" y="-59" />
+      <point x="-68" y="-68" />
+      <point type="curve" x="-68" y="-92" />
+      <point type="line" x="-68" y="-178" />
+      <point x="-68" y="-202" />
+      <point x="-76" y="-211" />
+      <point type="curve" x="-102" y="-211" />
+      <point type="line" x="-317" y="-211" />
+      <point x="-340" y="-211" />
+      <point x="-347" y="-203" />
+      <point type="curve" x="-359" y="-183" />
+      <point type="line" x="-413" y="-90" />
+      <point type="line" x="-515" y="-90" />
+      <point type="line" x="-445" y="-206" />
+      <point x="-409" y="-264" />
+      <point x="-389" y="-270" />
+      <point type="curve" x="-319" y="-270" />
+      <point type="line" x="-54" y="-270" />
+      <point x="-1" y="-270" />
+      <point x="21" y="-248" />
+      <point type="curve" x="21" y="-195" />
+      <point type="line" x="21" y="-75" />
+      <point x="21" y="-22" />
+      <point x="-1" y="0" />
+      <point type="curve" x="-54" y="0" />
     </contour>
   </outline>
 </glyph>

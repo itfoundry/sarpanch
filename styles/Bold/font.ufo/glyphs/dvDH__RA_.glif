@@ -3,6 +3,9 @@
   <advance width="1013"/>
   <outline>
     <contour>
+      <point x="745" y="-59" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
       <point x="1033" y="563" type="line"/>
       <point x="1033" y="622" type="line"/>
       <point x="745" y="622" type="line"/>

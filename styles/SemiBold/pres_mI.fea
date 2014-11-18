@@ -59,7 +59,10 @@
 @mI_BASES_03 = [
   dvTA
   dvSSA
+  dvSS_RA
   dvH_RA
+  dvTTH_VA
+  dvDDH_VA
   dvT_TA
   dvP_TTA
   dvP_TTHA
@@ -110,6 +113,7 @@
   dvNY_RA
   dvDH_RA
   dvN_RA
+  dvLL_RA
   dvGx_RA
   dvEyelash_HA
 ];
@@ -142,6 +146,7 @@
   dvLA
   dvSHA
   dvJH_RA
+  dvL_RA
   dvS_RA
   dvT_K_RA
   dvH_MA

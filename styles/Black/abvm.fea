@@ -1,4 +1,4 @@
-# Created: Mon Nov 17 00:52:39 2014
+# Created: Tue Nov 18 19:06:11 2014
 # PS Name: Sarpanch-Black
 # MM Inst: None
 # exported from noApp
@@ -34,6 +34,7 @@ lookup MARK_BASE_abvm.bindu {
 	@bGC_dvTTHA_abvm.bindu = [dvTTHA dvTTH_RA];
 	@bGC_dvTT_TTA_abvm.bindu = [dvTT_TTA dvTT_TTHA];
 	@bGC_dvT_KA_abvm.bindu = [dvT_KA dvB_DA];
+	@bGC_dvvR_abvm.bindu = [dvvR dvvRR];
 	pos base @bGC_dvCHA_abvm.bindu <anchor 845 622> mark @MC_abvm.bindu;
 	pos base @bGC_dvDA_abvm.bindu <anchor 658 622> mark @MC_abvm.bindu;
 	pos base @bGC_dvDDHA_abvm.bindu <anchor 646 622> mark @MC_abvm.bindu;
@@ -62,6 +63,7 @@ lookup MARK_BASE_abvm.bindu {
 	pos base @bGC_dvTTHA_abvm.bindu <anchor 503 622> mark @MC_abvm.bindu;
 	pos base @bGC_dvTT_TTA_abvm.bindu <anchor 701 622> mark @MC_abvm.bindu;
 	pos base @bGC_dvT_KA_abvm.bindu <anchor 1107 622> mark @MC_abvm.bindu;
+	pos base @bGC_dvvR_abvm.bindu <anchor 748 622> mark @MC_abvm.bindu;
 	pos base dvAA <anchor 1220 622> mark @MC_abvm.bindu;
 	pos base dvAI <anchor 949 622> mark @MC_abvm.bindu;
 	pos base dvAU <anchor 1686 622> mark @MC_abvm.bindu;
@@ -158,6 +160,7 @@ lookup MARK_BASE_abvm.candra {
 	@bGC_dvTTHA_abvm.candra = [dvTTHA dvTTH_RA];
 	@bGC_dvTT_TTA_abvm.candra = [dvTT_TTA dvTT_TTHA];
 	@bGC_dvT_KA_abvm.candra = [dvT_KA dvB_DA];
+	@bGC_dvvR_abvm.candra = [dvvR dvvRR];
 	pos base @bGC_dvCHA_abvm.candra <anchor 845 622> mark @MC_abvm.candra;
 	pos base @bGC_dvDA_abvm.candra <anchor 658 622> mark @MC_abvm.candra;
 	pos base @bGC_dvDDHA_abvm.candra <anchor 646 622> mark @MC_abvm.candra;
@@ -186,6 +189,7 @@ lookup MARK_BASE_abvm.candra {
 	pos base @bGC_dvTTHA_abvm.candra <anchor 503 622> mark @MC_abvm.candra;
 	pos base @bGC_dvTT_TTA_abvm.candra <anchor 701 622> mark @MC_abvm.candra;
 	pos base @bGC_dvT_KA_abvm.candra <anchor 1107 622> mark @MC_abvm.candra;
+	pos base @bGC_dvvR_abvm.candra <anchor 748 622> mark @MC_abvm.candra;
 	pos base dvAA <anchor 1220 622> mark @MC_abvm.candra;
 	pos base dvC_CHA <anchor 1341 622> mark @MC_abvm.candra;
 	pos base dvC_CH_VA <anchor 1328 622> mark @MC_abvm.candra;

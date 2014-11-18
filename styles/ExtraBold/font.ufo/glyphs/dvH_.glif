@@ -1,58 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvH" format="1">
-  <advance width="704"/>
+  <advance width="748"/>
   <outline>
-    <contour>
-      <point x="770" y="563" type="line"/>
-      <point x="770" y="622" type="line"/>
-      <point x="-20" y="622" type="line"/>
-      <point x="-20" y="563" type="line"/>
-    </contour>
-    <contour>
-      <point x="444" y="588" type="line"/>
-      <point x="444" y="450" type="line"/>
-      <point x="644" y="450" type="line"/>
-      <point x="644" y="588" type="line"/>
-    </contour>
-    <contour>
-      <point x="644" y="485" type="line"/>
-      <point x="154" y="485" type="line" smooth="yes"/>
-      <point x="101" y="485"/>
-      <point x="77" y="462"/>
-      <point x="77" y="409" type="curve" smooth="yes"/>
-      <point x="77" y="355" type="line" smooth="yes"/>
-      <point x="77" y="310"/>
-      <point x="97" y="291"/>
-      <point x="140" y="291" type="curve"/>
-      <point x="140" y="286" type="line"/>
-      <point x="97" y="285"/>
-      <point x="77" y="267"/>
-      <point x="77" y="221" type="curve" smooth="yes"/>
-      <point x="77" y="76" type="line" smooth="yes"/>
-      <point x="77" y="23"/>
-      <point x="101" y="0"/>
-      <point x="154" y="0" type="curve" smooth="yes"/>
-      <point x="661" y="0" type="line"/>
-      <point x="661" y="59" type="line"/>
-      <point x="310" y="59" type="line" smooth="yes"/>
-      <point x="284" y="59"/>
-      <point x="277" y="67"/>
-      <point x="277" y="91" type="curve" smooth="yes"/>
-      <point x="277" y="232" type="line" smooth="yes"/>
-      <point x="277" y="258"/>
-      <point x="284" y="265"/>
-      <point x="310" y="265" type="curve" smooth="yes"/>
-      <point x="811" y="265" type="line"/>
-      <point x="811" y="324" type="line"/>
-      <point x="310" y="324" type="line" smooth="yes"/>
-      <point x="284" y="324"/>
-      <point x="277" y="331"/>
-      <point x="277" y="357" type="curve" smooth="yes"/>
-      <point x="277" y="394" type="line" smooth="yes"/>
-      <point x="277" y="418"/>
-      <point x="284" y="426"/>
-      <point x="310" y="426" type="curve" smooth="yes"/>
-      <point x="644" y="426" type="line"/>
-    </contour>
+    <component base="dvVirama" xOffset="558"/>
+    <component base="dvHA"/>
   </outline>
 </glyph>

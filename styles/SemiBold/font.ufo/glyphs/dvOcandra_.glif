@@ -4,7 +4,7 @@
   <unicode hex="0911"/>
   <outline>
     <contour>
-      <point x="1204" y="714" type="move" name="abvm.bindu"/>
+      <point x="1137" y="714" type="move" name="abvm.bindu"/>
     </contour>
     <component base="dvmAA" xOffset="1049"/>
     <component base="dvA"/>

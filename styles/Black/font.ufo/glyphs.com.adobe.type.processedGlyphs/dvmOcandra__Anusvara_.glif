@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvmOcandra_Anusvara">
+  <advance width="374" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="246" y="917" />
+      <point type="line" x="128" y="917" />
+      <point type="line" x="128" y="815" />
+      <point type="line" x="246" y="815" />
+    </contour>
+    <contour>
+      <point type="line" x="-20" y="563" />
+      <point type="line" x="55" y="563" />
+      <point type="line" x="55" y="0" />
+      <point type="line" x="319" y="0" />
+      <point type="line" x="319" y="563" />
+      <point type="line" x="394" y="563" />
+      <point type="line" x="394" y="622" />
+      <point type="line" x="-20" y="622" />
+    </contour>
+    <contour>
+      <point type="line" x="293" y="852" />
+      <point type="line" x="293" y="777" />
+      <point x="293" y="753" />
+      <point x="286" y="744" />
+      <point type="curve" x="260" y="744" />
+      <point type="line" x="114" y="744" />
+      <point x="88" y="744" />
+      <point x="80" y="753" />
+      <point type="curve" x="80" y="777" />
+      <point type="line" x="80" y="852" />
+      <point type="line" x="-131" y="852" />
+      <point type="line" x="-131" y="763" />
+      <point x="-131" y="715" />
+      <point x="-118" y="685" />
+      <point type="curve" x="-61" y="685" />
+      <point type="line" x="435" y="685" />
+      <point x="491" y="685" />
+      <point x="504" y="715" />
+      <point type="curve" x="504" y="763" />
+      <point type="line" x="504" y="852" />
+    </contour>
+  </outline>
+</glyph>

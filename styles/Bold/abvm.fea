@@ -1,4 +1,4 @@
-# Created: Mon Nov 17 00:52:07 2014
+# Created: Tue Nov 18 19:05:36 2014
 # PS Name: Sarpanch-Bold
 # MM Inst: None
 # exported from noApp
@@ -27,6 +27,7 @@ lookup MARK_BASE_abvm.bindu {
 	@bGC_dvSS_TTA_abvm.bindu = [dvSS_TTA dvSS_TT_RA];
 	@bGC_dvSS_TTHA_abvm.bindu = [dvSS_TTHA dvSS_TTH_RA dvH_RA];
 	@bGC_dvTTA_abvm.bindu = [dvTTA dvK_RA dvKx_RA];
+	@bGC_dvvR_abvm.bindu = [dvvR dvvRR];
 	pos base @bGC_dvDDA_abvm.bindu <anchor 621 622> mark @MC_abvm.bindu;
 	pos base @bGC_dvDDHA_abvm.bindu <anchor 630 622> mark @MC_abvm.bindu;
 	pos base @bGC_dvD_B_RA_abvm.bindu <anchor 671 622> mark @MC_abvm.bindu;
@@ -48,6 +49,7 @@ lookup MARK_BASE_abvm.bindu {
 	pos base @bGC_dvSS_TTA_abvm.bindu <anchor 696 622> mark @MC_abvm.bindu;
 	pos base @bGC_dvSS_TTHA_abvm.bindu <anchor 707 622> mark @MC_abvm.bindu;
 	pos base @bGC_dvTTA_abvm.bindu <anchor 628 622> mark @MC_abvm.bindu;
+	pos base @bGC_dvvR_abvm.bindu <anchor 674 622> mark @MC_abvm.bindu;
 	pos base dvAA <anchor 1249 622> mark @MC_abvm.bindu;
 	pos base dvAI <anchor 862 622> mark @MC_abvm.bindu;
 	pos base dvAU <anchor 1562 622> mark @MC_abvm.bindu;
@@ -108,7 +110,7 @@ lookup MARK_BASE_abvm.bindu {
 	pos base dvN_S_TTA <anchor 2078 622> mark @MC_abvm.bindu;
 	pos base dvN_TTA <anchor 1326 622> mark @MC_abvm.bindu;
 	pos base dvO <anchor 1509 622> mark @MC_abvm.bindu;
-	pos base dvOcandra <anchor 1209 714> mark @MC_abvm.bindu;
+	pos base dvOcandra <anchor 1157 714> mark @MC_abvm.bindu;
 	pos base dvPH_PHA <anchor 1425 622> mark @MC_abvm.bindu;
 	pos base dvPH_TTA <anchor 1366 622> mark @MC_abvm.bindu;
 	pos base dvP_TTA <anchor 682 622> mark @MC_abvm.bindu;
@@ -161,6 +163,7 @@ lookup MARK_BASE_abvm.candra {
 	@bGC_dvSS_TTA_abvm.candra = [dvSS_TTA dvSS_TT_RA];
 	@bGC_dvSS_TTHA_abvm.candra = [dvSS_TTHA dvSS_TTH_RA dvH_RA];
 	@bGC_dvTTA_abvm.candra = [dvTTA dvK_RA dvKx_RA];
+	@bGC_dvvR_abvm.candra = [dvvR dvvRR];
 	pos base @bGC_dvDDA_abvm.candra <anchor 621 622> mark @MC_abvm.candra;
 	pos base @bGC_dvDDHA_abvm.candra <anchor 630 622> mark @MC_abvm.candra;
 	pos base @bGC_dvDD_DDA_abvm.candra <anchor 635 622> mark @MC_abvm.candra;
@@ -183,6 +186,7 @@ lookup MARK_BASE_abvm.candra {
 	pos base @bGC_dvSS_TTA_abvm.candra <anchor 696 622> mark @MC_abvm.candra;
 	pos base @bGC_dvSS_TTHA_abvm.candra <anchor 707 622> mark @MC_abvm.candra;
 	pos base @bGC_dvTTA_abvm.candra <anchor 628 622> mark @MC_abvm.candra;
+	pos base @bGC_dvvR_abvm.candra <anchor 674 622> mark @MC_abvm.candra;
 	pos base dvAA <anchor 1249 622> mark @MC_abvm.candra;
 	pos base dvB_DA <anchor 1118 622> mark @MC_abvm.candra;
 	pos base dvCHA <anchor 787 622> mark @MC_abvm.candra;

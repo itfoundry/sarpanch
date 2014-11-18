@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="1">
+  <advance width="986"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <contour>
+      <point x="574" y="56" type="line"/>
+      <point x="937" y="56" type="line"/>
+      <point x="937" y="92" type="line"/>
+      <point x="574" y="92" type="line"/>
+    </contour>
+    <contour>
+      <point x="518" y="56" type="line"/>
+      <point x="634" y="56" type="line"/>
+      <point x="807" y="342" type="line"/>
+      <point x="668" y="342" type="line"/>
+      <point x="518" y="103" type="line"/>
+    </contour>
+    <contour>
+      <point x="753" y="181" type="line"/>
+      <point x="753" y="0" type="line"/>
+      <point x="883" y="0" type="line"/>
+      <point x="883" y="181" type="line"/>
+    </contour>
+    <component base="slash" xOffset="160"/>
+    <component base="onesuperior" xOffset="35"/>
+  </outline>
+</glyph>

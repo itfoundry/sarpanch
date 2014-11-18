@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Delta.math">
+  <advance width="810" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="294" y="62" />
+      <point type="line" x="405" y="343" />
+      <point type="line" x="516" y="62" />
+    </contour>
+    <contour>
+      <point type="line" x="494" y="702" />
+      <point type="line" x="316" y="702" />
+      <point type="line" x="10" y="3" />
+      <point type="line" x="800" y="3" />
+    </contour>
+  </outline>
+</glyph>

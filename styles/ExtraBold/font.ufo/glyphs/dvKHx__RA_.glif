@@ -2,7 +2,10 @@
 <glyph name="dvKHx_RA" format="1">
   <advance width="1339"/>
   <outline>
+    <contour>
+      <point x="1071" y="-59" type="move" name="blwm.u"/>
+    </contour>
     <component base="dvKH_RA"/>
-    <component base="dvNukta" xOffset="1210" yOffset="-70"/>
+    <component base="dvNukta" xOffset="626" yOffset="-45"/>
   </outline>
 </glyph>
