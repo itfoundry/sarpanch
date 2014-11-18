@@ -27,7 +27,6 @@
 		<string>dvII_Anusvara</string>
 		<string>dvU</string>
 		<string>dvUU</string>
-		<string>dvvR</string>
 		<string>dvvL</string>
 		<string>dvEcandra</string>
 		<string>dvE</string>
@@ -672,7 +671,7 @@
 		<string>dvmvRR</string>
 		<string>dvNY_R</string>
 		<string>dvAcandra</string>
-		<string>dvvRR</string>
+		<string>dvvR</string>
 		<string>dvOm</string>
 		<string>dvEyelash</string>
 		<string>exclam</string>
@@ -800,9 +799,12 @@
 		<string>Agrave</string>
 		<string>Aacute</string>
 		<string>Acircumflex</string>
+		<string>circumflex</string>
 		<string>Atilde</string>
+		<string>tilde</string>
 		<string>Adieresis</string>
 		<string>Aring</string>
+		<string>ring</string>
 		<string>AE</string>
 		<string>Ccedilla</string>
 		<string>Egrave</string>
@@ -864,12 +866,15 @@
 		<string>Amacron</string>
 		<string>amacron</string>
 		<string>Abreve</string>
+		<string>breve</string>
 		<string>abreve</string>
 		<string>Aogonek</string>
+		<string>ogonek</string>
 		<string>aogonek</string>
 		<string>Cacute</string>
 		<string>cacute</string>
 		<string>Ccaron</string>
+		<string>caron</string>
 		<string>ccaron</string>
 		<string>Dcaron</string>
 		<string>dcaron</string>
@@ -878,6 +883,7 @@
 		<string>Emacron</string>
 		<string>emacron</string>
 		<string>Edotaccent</string>
+		<string>dotaccent</string>
 		<string>edotaccent</string>
 		<string>Eogonek</string>
 		<string>eogonek</string>
@@ -886,6 +892,7 @@
 		<string>Gbreve</string>
 		<string>gbreve</string>
 		<string>Gcommaaccent</string>
+		<string>commaaccent</string>
 		<string>gcommaaccent</string>
 		<string>Imacron</string>
 		<string>imacron</string>
@@ -951,14 +958,7 @@
 		<string>scommaaccent</string>
 		<string>Tcommaaccent</string>
 		<string>tcommaaccent</string>
-		<string>circumflex</string>
-		<string>caron</string>
 		<string>macronmod</string>
-		<string>breve</string>
-		<string>dotaccent</string>
-		<string>ring</string>
-		<string>ogonek</string>
-		<string>tilde</string>
 		<string>hungarumlaut</string>
 		<string>pi</string>
 		<string>endash</string>
@@ -993,8 +993,39 @@
 		<string>lozenge</string>
 		<string>fi</string>
 		<string>fl</string>
-		<string>commaaccent</string>
 		<string>zerowidthspace</string>
+		<string>dvmvL</string>
+		<string>dvmvLL</string>
+		<string>indianrupee</string>
+		<string>rupee</string>
+		<string>dvL_RA</string>
+		<string>dvSS_RA</string>
+		<string>dvLL_RA</string>
+		<string>dvNG_R</string>
+		<string>dvCH_R</string>
+		<string>dvvRR</string>
+		<string>dvL_R</string>
+		<string>dvSH_R</string>
+		<string>dvSS_R</string>
+		<string>dvH_R</string>
+		<string>dvLL_R</string>
+		<string>dvTTH_VA</string>
+		<string>dvDDH_VA</string>
+		<string>dvmEcandra_Anusvara</string>
+		<string>dvmOcandra_Anusvara</string>
+		<string>onequarter</string>
+		<string>onehalf</string>
+		<string>threequarters</string>
+		<string>nonbreakingspace</string>
+		<string>apostrophemod</string>
+		<string>turkishlira</string>
+		<string>ruble</string>
+		<string>litre</string>
+		<string>estimated</string>
+		<string>partialdiff</string>
+		<string>Delta.math</string>
+		<string>summation</string>
+		<string>radical</string>
 	</array>
 </dict>
 </plist>

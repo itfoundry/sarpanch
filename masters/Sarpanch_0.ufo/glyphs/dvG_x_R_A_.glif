@@ -2,7 +2,10 @@
 <glyph name="dvGx_RA" format="1">
   <advance width="1047"/>
   <outline>
-    <component base="dvNukta" xOffset="950" yOffset="-79"/>
+    <contour>
+      <point x="883" y="-71" type="move" name="blwm.u"/>
+    </contour>
+    <component base="dvNukta" xOffset="582" yOffset="65"/>
     <component base="dvG_RA"/>
   </outline>
 </glyph>
